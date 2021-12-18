@@ -1,4 +1,4 @@
-# Implement-DevOps-in-Google-Cloud-Challenge-Lab
+# Implement-DevOps-in-Google-Cloud
 First Task -------
 
 gcloud config set compute/zone us-east1-b
